@@ -1,3 +1,2 @@
 import os
-BOT_TOKEN ='token is hiden
-'
+BOT_TOKEN ='token is hiden'
